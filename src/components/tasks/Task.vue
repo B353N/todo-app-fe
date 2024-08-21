@@ -24,7 +24,7 @@
 <script setup>
 import IconPencil from "@/components/icons/IconPencil.vue";
 import IconTrash from "@/components/icons/IconTrash.vue";
-import {computed} from "vue";
+import { computed } from "vue";
 
 const props = defineProps({
   task: Object
